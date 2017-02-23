@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fuasahi/ClionProjects/JSON interpreter/JSON.cpp
+JSON.h
+/Users/fuasahi/ClionProjects/JSON interpreter/JSON.h
+
+/Users/fuasahi/ClionProjects/JSON interpreter/JSON.h
+string
+-
+memory
+-
+vector
+-
+map
+-
+iostream
+-
+fstream
+-
+sstream
+-
+
+/Users/fuasahi/ClionProjects/JSON interpreter/main.cpp
+iostream
+-
+cstdio
+-
+JSON.h
+/Users/fuasahi/ClionProjects/JSON interpreter/JSON.h
+
