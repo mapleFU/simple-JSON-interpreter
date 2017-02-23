@@ -1,2 +1,3 @@
 # simple-JSON-interpreter
 寒假作业写不完了...
+http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf
