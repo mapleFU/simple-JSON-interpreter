@@ -1,5 +1,5 @@
 //
-// Created by 付旭炜 on 2017/2/23.
+// Created by xxx on 2017/2/23.
 //
 
 #ifndef JSON_INTERPRETER_JSON_H
@@ -47,7 +47,7 @@ std::shared_ptr<JSON> CreateTrue();
 std::shared_ptr<JSON> CreateFalse();
 std::shared_ptr<JSON> CreateBool(int b);
 std::shared_ptr<JSON> CreateNumber(double num);
-std::shared_ptr<JSON> CreateString(const char *string);
+std::shared_ptr<JSON> CreateString(const string&);
 std::shared_ptr<JSON> CreateArray();
 std::shared_ptr<JSON> CreateObject();
 
