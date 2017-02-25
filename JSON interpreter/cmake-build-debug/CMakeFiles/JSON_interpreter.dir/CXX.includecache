@@ -25,6 +25,12 @@ fstream
 -
 sstream
 -
+stack
+-
+cstring
+-
+cmath
+-
 
 /Users/fuasahi/ClionProjects/JSON interpreter/main.cpp
 iostream
